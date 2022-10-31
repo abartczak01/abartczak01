@@ -7,18 +7,22 @@
 ![pestek1](pestek1.jpg)
 
 Pestek w lodówce
+ 
 
 ![pestek2](pestek2.jpg)
 
 Pestek w koszu na pranie
+ 
 
 ![pestek3](pestek3.jpg)
 
 Pestek na brudnym mopie
+ 
 
 ![pestek4](pestek4.jpg)
 
 Pestek w umywalce
+ 
 
 Kot Pestek jest super
 
