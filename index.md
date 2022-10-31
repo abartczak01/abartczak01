@@ -1,6 +1,6 @@
 # KOT PESTEK
 
-[link do ksywek Pestka](#ksywki_pestka)
+[link do ksywek Pestka](#ksywki-pestka)
 
 ## Kot Pestek w miejscach, w których nie powinien się znaleźć
 
