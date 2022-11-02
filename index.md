@@ -33,3 +33,9 @@ Wszyscy go kochają
 |Pestino|ma jeszcze bardziej włoskie brzmienie|
 |Pestosław|bardzo wytworne, maskuje małą liczbę punktów IQ Pestka|
 
+<style>
+mark{
+    color:pink;
+}
+</style>
+
